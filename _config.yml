@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2025/03/31/pEsI5FI.jpg"
   name             : "Tianyu Han"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : #"he" # example: "she/her"  
   bio              : "Personal Introduction"
   location         : "No.11, Xueyuan Road, Haidian District, Beijing, China"
   employer         : "China University of Mining and Technology (Beijing)"
