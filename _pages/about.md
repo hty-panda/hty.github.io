@@ -1,12 +1,12 @@
 ---
 permalink: /
-title:"Welcome to my GitHub page"
+title: "Welcome to my GitHub page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# 1
 I am Tianyu Han, a fourth -year Ph.D. student at China University of Mining and Technology-Beijing (CUMTB). You can also call me Tianyu. My major is Civil Engineering.  I am currently working on concrete materials and their application in drilling engineering.  I will obtain my Ph.D. degree in June 2025, with the dissertation entitled “Development and mechanical properties of solid waste lightweight high-strength concrete and feasibility study on its application in drilling engineering”, advised by Prof. Renliang Shan.
 
 # Education Background
