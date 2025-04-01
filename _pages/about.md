@@ -94,7 +94,7 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
  - 2021-2022 Teaching Assistant of Rock Mechanics.
  - I have guided four master students and five undergraduates to
    graduate successfully.
-# **References**
+##  **References**
  - **Prof. Renliang Shan** Dean, School of Mechanics and Civil Engineering, CUMTB
      (PhD Supervisor)
    [cumtbsrl10018@126.com](mailto:cumtbsrl10018@126.com)
