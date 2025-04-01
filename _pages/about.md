@@ -95,14 +95,14 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
  - I have guided four master students and five undergraduates to
    graduate successfully.
 ##  **References**
- - **Prof. Renliang Shan** Dean, School of Mechanics and Civil Engineering, CUMTB
+ - **Prof. Renliang Shan** School of Mechanics and Civil Engineering, CUMTB
      (PhD Supervisor)
    [cumtbsrl10018@126.com](mailto:cumtbsrl10018@126.com)
  - **Prof. Dongmin Wang** School of Chemical and Environmental Engineering, CUMTB
       [wangdongmin‑2008@163.com](wangdongmin‑2008@163.com)
- - **Prof. Bo Liu** President, School of Mechanics and Civil Engineering, CUMTB
+ - **Prof. Bo Liu** School of Mechanics and Civil Engineering, CUMTB
     [liub@cumtb.edu.cn](mailto:liub@cumtb.edu.cn)
- - **Ass. Prof. Zhenbo Wang** President, School of Mechanics and Civil Engineering, CUMTB
+ - **Ass. Prof. Zhenbo Wang** School of Mechanics and Civil Engineering, CUMTB
    wangzb@cumtb.edu.cn
 
 ## **Interests**
