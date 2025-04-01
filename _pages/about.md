@@ -62,6 +62,7 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
 03/2021-Present **PH.D Project**
 
  1. **Study on the properties and durability of coal gangue ceramic steel fiber high-strength concrete for Shaft drilling lining of coal mine.** (Student project leader)
+ 
 2. **Application and participation for National Natural Science Foundation of China (Youth Science Foundation Project).** (Student project leader)
 
 07/2019-06/2021 **Master Project**
@@ -80,11 +81,9 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
 ## **Academic Report**
 
  - November 2024 Solid Waste Resource Application, **Chinese Silicate Society**.
-
-  **“Study on the performance of coal gangue ceramsite high strength concrete”**
+**“Study on the performance of coal gangue ceramsite high strength concrete”**
 
  - July 2023 National Mine Construction Academic Conference, **China Coal Society**.
-
 **“Vertical structural stability study of ultra-deep wellbore by drilling method.”**
 
 ##  **Work experience & Teaching experience**
@@ -94,7 +93,7 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
  - 2021-2022 Teaching Assistant of Rock Mechanics.
  - I have guided four master students and five undergraduates to
    graduate successfully.
-##  **References**
+## References 
  - **Prof. Renliang Shan** School of Mechanics and Civil Engineering, CUMTB
      (PhD Supervisor)
    [cumtbsrl10018@126.com](mailto:cumtbsrl10018@126.com)
