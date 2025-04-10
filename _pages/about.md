@@ -47,7 +47,7 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
 
 **Tianyu Han**, co-author. Vertical structural stability study of ultra-deep wellbore before cementing by drilling method. **_Journal of China Coal Society_** **(in Chinese) (IF=6.9)**. [https://doi.org/10.13225/j.cnki.jccs. 2023.1385]
 
-**Tianyu Han**, first-author. Interface structure between coal gangue ceramsite and cement matrix. **_Case Studies in Construction Materials_**. (Major Revision)
+**Tianyu Han**, first-author. Interface structure between coal gangue ceramsite and cement matrix. **_Case Studies in Construction Materials_**. (Minor Revision)
 
 **Tianyu Han**, first-author. Research on mechanical properties of lightweight material on shaft wall of deep shaft by drilling method. _**Under review in Construction and Building Materials.**_
 
