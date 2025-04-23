@@ -43,11 +43,12 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
 
 **Tianyu Han**, co-author. Study on the performance of coal gangue ceramsite steel fiber high strength concrete. **_Journal of Building Engineering_**. [https://doi.org/10.1016/j.jobe.2024.110121]
 
+**Tianyu Han**, first-author. Interface structure between coal gangue ceramsite and cement matrix. **_Case Studies in Construction Materials_**.
+[https://doi.org/10.1016/j.cscm.2025.e04691]
+
 **Tianyu Han**, first-author. Experimental study on the influence of initial moisture content and thawing temperature on freeze-thaw characteristics of Tianjin clay. **_Journal of Testing and Evaluation_**. [https://doi.org/10.1520/JTE20240128]
 
 **Tianyu Han**, co-author. Vertical structural stability study of ultra-deep wellbore before cementing by drilling method. **_Journal of China Coal Society_** **(in Chinese) (IF=6.9)**. [https://doi.org/10.13225/j.cnki.jccs. 2023.1385]
-
-**Tianyu Han**, first-author. Interface structure between coal gangue ceramsite and cement matrix. **_Case Studies in Construction Materials_**. (Minor Revision)
 
 **Tianyu Han**, first-author. Research on mechanical properties of lightweight material on shaft wall of deep shaft by drilling method. _**Under review in Construction and Building Materials.**_
 
