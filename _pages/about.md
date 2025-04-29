@@ -50,7 +50,9 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
 
 **Tianyu Han**, co-author. Vertical structural stability study of ultra-deep wellbore before cementing by drilling method. **_Journal of China Coal Society_** **(in Chinese) (IF=6.9)**. [https://doi.org/10.13225/j.cnki.jccs. 2023.1385]
 
-**Tianyu Han**, first-author. Research on mechanical properties of lightweight material on shaft wall of deep shaft by drilling method. _**Under review in Construction and Building Materials.**_
+**Tianyu Han**, first-author. Research on mechanical properties of lightweight material on shaft wall of deep shaft by drilling method. _**Under review in Composites Part B: Engineering.**_
+
+**Tianyu Han**, first-author. The influence of coal gangue ceramsite on the stress-strain curve of steel fiber high-strength concrete. _**Under review in Construction and Building Materials.**_
 
 **Tianyu Han**, first-author. Study on the influence of surrounding rock expansion force on inclined shaft support under freeze-thaw conditions. **_Mining Research and Development_** **(in Chinese) (IF=2.1).** [https://doi.org/ 10.13827/j.cnki.kyyk.2021.01.006]
 
@@ -80,6 +82,9 @@ Dissertation Entitled :**Development and mechanical properties of solid waste li
  4. First Class Scholarship for Postgraduate in 2020, 2021, 2022, 2023, **China University of Mining and Technology-Beijing**
 
 ## **Academic Report**
+
+ - April 2025 The 6th Solid Waste Conference, **Chinese Silicate Society**.
+**“Research on lightweight materials and stability of suspension subsidence of deep shaft wall by drilling method”**
 
  - November 2024 Solid Waste Resource Application, **Chinese Silicate Society**.
 **“Study on the performance of coal gangue ceramsite high strength concrete”**
